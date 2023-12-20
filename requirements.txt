@@ -1,0 +1,9 @@
+tensorflow
+keras
+os
+opencv-python
+mghdr
+matplotlib
+numpy
+sklearn
+pandas
